@@ -1,0 +1,22 @@
+{
+  "name": "nowy-kurs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "browser-sync": "^2.29.0",
+    "gulp": "^4.0.0",
+    "gulp-postcss": "^9.0.1",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^2.0.1"
+  },
+  "dependencies": {
+    "pnpm": "^7.30.1"
+  }
+}
